@@ -18,4 +18,31 @@ title: Mac και Social πειράματα
 debian + i3 + emacs. Η δοκιμή είναι το δεύτερο laptop να είναι mac.
 
 Βρήκα ενδιαφέρον να καταγράψω και τι χρειάστηκα μέχρι να καταφέρω να φτιάξω ένα
-περιβάλλον που μου αρέσει, αν τελικά μου αρέσει αυτό το πείραμα.
+περιβάλλον που μου αρέσει και ίσως φανεί χρήσιμο αν τελικά μου αρέσει η κατάληξη
+αυτού του πειράματος. Χρειάστηκε λοιπόν να κάνω τα παρακάτω:
+
+* [Dropbox](https://www.dropbox.com)
+
+* [Keepassx](https://www.keepassx.org)
+
+* Xcode
+
+* [Homebrew](https://brew.sh)
+
+* Install Trello app
+
+* [Docker](https://www.docker.com/docker-mac)
+
+* Αλλαγή στις ρυθμίσεις για αυτόματο κλείδωμα άμεσα
+
+* [rbenv](https://github.com/rbenv/rbenv)
+   Εγκατάσταση των απαραίτητων εκδόσεων Ruby
+
+* [nvm](https://github.com/creationix/nvm)
+  Εγκατάσταση των απαραίτητων εκδόσεων Nodejs
+
+* [yarn](https://yarnpkg.com/lang/en/)
+
+* Σύνδεση με iCloud
+
+* [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS)
