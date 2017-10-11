@@ -25,6 +25,8 @@ debian + i3 + emacs. Η δοκιμή είναι το δεύτερο laptop να 
 
 * [Keepassx](https://www.keepassx.org)
 
+* Μεταφορά ssh κλειδιών
+
 * Xcode
 
 * [Homebrew](https://brew.sh)
@@ -46,3 +48,70 @@ debian + i3 + emacs. Η δοκιμή είναι το δεύτερο laptop να 
 * Σύνδεση με iCloud
 
 * [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS)
+
+* Χρήση του Capslock σαν Control
+
+* Ρύθμιση του Spotglight σε alt+Space
+
+* Ρύθμιση της αλλαγής γλώσσας με cmd+Space
+
+* Τοποθέτηση στο sidebar του Finder τον φάκελο με τα Projects
+
+* Σετάρισμα όλων των λογαριασμών email
+
+* Αντιγραφή του forked [prelude](https://github.com/chief/prelude) στον φάκελο `.emacs.d`
+* Install `tig`
+
+* Install `the_silver_searcher`
+
+* Install `Java`
+
+* Install `tree`
+
+* Install `wdiff`
+
+* Setup `Slack` and sign in to workspaces
+
+* Install `htop`
+
+* Install `poedit`
+
+* Copy `.bash_profile` settings
+
+* Copy `.bash_aliases`
+
+* Copy `.config/git`
+
+* Install `gettext`
+
+* Install `aspell`
+
+* Install `imovie`
+
+* Authorize computer throught iTunes
+
+* Install `wget`
+
+* Install Pocket extension for Safari
+
+* Install DuckDuckGo to Safari
+
+graphviz
+guitar-pro
+tunnel-vpn
+
+## Πρώτες εντυπώσεις
+
+Μου έχει φανεί πιο αργή η εμπειρία στην χρήση του Emacs.
+Επίσης και το Docker μου φαίνεται αρκετά πιο αργό. Έχω συνηθίσει να
+εργάζομαι σε tile windows περιβάλλον και είναι αρκετά κουραστικό να
+σκέφτεσαι την εναλλαγή παραθύρων με το cmd+tab. Το wifi μου
+παρουσιάζει κάποια προβλήματα. Τα gestures στο ποντίκι είναι πολύ
+μυστήρια και σε ξαφνιάζουν. Μου έδωσε την εντύπωση πως μπορώ να κάνω
+κάτι κακό - π.χ. να σβήσω ένα email - χωρίς να το καταλάβω.
+Εξακολουθεί να μου φαίνεται αργή η δακτυλογράφηση στον emacs. To
+mouse scrolling στον emacs είναι κάτι αδύνατο.
+
+Πολύ ωραίο το integration με το κινητό. Φαίνεται να φορτίζει αρκετά
+γρήγορα η μπαταρία. To guitar-pro παίζει εντυπωσιακά καλά. Πολύ καλός
+ο slack client.
