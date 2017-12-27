@@ -28,4 +28,4 @@ github:
 
 plugins: [redcarpet, jekyll-paginate]
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
