@@ -10,6 +10,8 @@ tags: ενδιαφέροντα
 > thoughts to a social network, it would seem that censorship ought to be
 > impossible. This should be the golden age of free speech.
 
+<!--more-->
+
 Ο συγγραφέας βλέπει καταρχάς δύο προβλήματα με την κατάσταση της πληροφορίας
 σήμερα. Το πρώτο πρόβλημα αφορά την εγγυρότητα της πηγής και το
 δεύτερο αφορά την προώθηση της πληροφορίας. Ένα τρίτο θέμα είναι ότι
