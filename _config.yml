@@ -10,7 +10,7 @@ tagline:          ''
 description:      'σκέψεις κείμενα ιδέες και διάφορες προσωπικές απόψεις, ένας
 μικρός χώρος που αλωνίζω'
 url:              https://chief.github.io
-baseurl:          /
+baseurl: /
 excerpt_separator: "<!--more-->"
 
 author:
