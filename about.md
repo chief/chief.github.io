@@ -5,6 +5,24 @@ permalink: about.html
 description: Λίγα λόγια για μένα
 ---
 
+### Teams
+
+[Skroutz](https://skroutz.gr) - μέλος της ομάδας που φτιάχνει το
+Skroutz από το 2012
+
+[Timetrap](https://timetrapescape.bandcamp.com/) - μέλος της μουσικής
+μπάντας timetrap από το 2002
+
+[Μουσική ομάδα
+Καλαμίδα](https://www.facebook.com/%CE%9C%CE%BF%CF%85%CF%83%CE%B9%CE%BA%CE%AE-%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1-%CE%9A%CE%B1%CE%BB%CE%B1%CE%BC%CE%AF%CE%B4%CE%B1-110507333863152) -
+μέλος της μουσικής ομάδας Καλαμίδα από το 2004
+
+[Diskollectiv](https://diskollectiv2012.espivblogs.net/) - μέλος της
+μουσικής κολλεκτίβας Diskollectiv από το 2012
+
+[Euruko2013](https://github.com/euruko2013) -  μέλος της ομάδας που
+έτρεξε το euruko το 2013
+
 ### Music
 
 [Χρόνια Σιωπής](https://timetrapescape.bandcamp.com/album/-)
