@@ -5,10 +5,15 @@ permalink: about.html
 description: Λίγα λόγια για μένα
 ---
 
-### Teams
+### Projects
 
 [Skroutz](https://skroutz.gr) - μέλος της ομάδας που φτιάχνει το
 Skroutz από το 2012
+
+[Euruko2013](https://github.com/euruko2013) -  μέλος της ομάδας που
+έτρεξε το euruko το 2013
+
+### Teams
 
 [Timetrap](https://timetrapescape.bandcamp.com/) - μέλος της μουσικής
 μπάντας timetrap από το 2002
@@ -20,8 +25,6 @@ Skroutz από το 2012
 [Diskollectiv](https://diskollectiv2012.espivblogs.net/) - μέλος της
 μουσικής κολλεκτίβας Diskollectiv από το 2012
 
-[Euruko2013](https://github.com/euruko2013) -  μέλος της ομάδας που
-έτρεξε το euruko το 2013
 
 ### Music
 
