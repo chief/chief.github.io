@@ -73,6 +73,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
+  jekyll-feed
   jekyll-paginate
   jekyll-theme-cayman
   kramdown-parser-gfm

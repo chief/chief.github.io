@@ -26,6 +26,6 @@ version:          2.1.0
 github:
   repo:          https://github.com/chief/chief.github.io
 
-plugins: [redcarpet, jekyll-paginate]
+plugins: [redcarpet, jekyll-paginate,  jekyll-feed]
 
 theme: minima

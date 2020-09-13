@@ -12,3 +12,5 @@ gem 'jekyll-theme-cayman'
 gem 'minima'
 
 gem 'kramdown-parser-gfm'
+
+gem 'jekyll-feed'
