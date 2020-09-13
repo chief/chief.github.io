@@ -21,7 +21,6 @@
   {% include collecttags.html %}
   {% endif %}
 
-
   <title>
     {% if page.title == "Home" %}
     {{ site.title }} &middot; {{ site.tagline }}
@@ -29,6 +28,12 @@
     {{ page.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
+
+  {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+
+  <meta property="og:title" content="{{ page.title }}">
+
+  <meta property="og:site_name" content="{{ site.title }}>
 
   <!-- CSS -->
   <link rel="stylesheet" href="{{ site.url }}/public/css/poole.css">
