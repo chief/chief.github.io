@@ -31,15 +31,14 @@ colors](https://dev.to/chief/dealing-with-hex-colors-464g)
 
 ### Code
 
-[Turkish stemmer](https://github.com/skroutz/turkish_stemmer) - Ένας
-απλός stemmer για την τούρκικη γλώσσα.
+[Turkish stemmer](https://github.com/skroutz/turkish_stemmer) - απλός stemmer για την τούρκικη γλώσσα.
 
-[Greek stemmer](https://github.com/chief/greek_stemmer) - Ενας απλός
+[Greek stemmer](https://github.com/chief/greek_stemmer) - απλός
 stemmer για την ελληνική γλώσσα.
 
 [My emacs config](https://github.com/chief/.emacs.d)
 
-[Naive Bayes](https://github.com/chief/clj-naive-bayes) - Μια πολύ
+[Naive Bayes](https://github.com/chief/clj-naive-bayes) - πολύ
 απλη υλοποίηση του naive bayes σε Clojure.
 
 ### Social
