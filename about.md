@@ -11,7 +11,7 @@ description: Λίγα λόγια για μένα
 Skroutz από το 2012
 
 [Euruko2013](https://github.com/euruko2013) -  μέλος της ομάδας που
-έτρεξε το euruko το 2013
+έτρεξε το euruko conf το 2013
 
 ### Teams
 
