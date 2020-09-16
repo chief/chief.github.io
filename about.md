@@ -29,6 +29,15 @@ Skroutz από το 2012
 [Diskollectiv](https://diskollectiv2012.espivblogs.net/) - μέλος της
 μουσικής κολλεκτίβας Diskollectiv από το 2012
 
+[Athens Ruby Meetup](https://www.meetup.com/Athens-Ruby-Meetup/) -
+μέλος της ομάδας που έτρεχε το meetup από περίπου το 2009 εως το 2014
+
+[Athens Clojure
+Meetup](https://www.meetup.com/Athens-Clojure-Meetup/members/?op=leaders) -
+μέλος της ομάδας που έτρεχε το meetup από το 2015 εως το 2017
+
+[Athens PWL meetup](https://www.meetup.com/Papers-We-Love-Athens/) -
+μέλος της ομάδας που τρέχει το PWL από το 2017
 
 ### Music
 
