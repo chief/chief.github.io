@@ -13,6 +13,9 @@ Skroutz από το 2012
 [Euruko2013](https://github.com/euruko2013) -  μέλος της ομάδας που
 έτρεξε το euruko conf το 2013
 
+[Tefter](https://tefter.io) - μέλος της ομάδας που φτιάχνει το Tefter
+από το 2018
+
 ### Teams
 
 [Villa Amalias](https://en.wikipedia.org/wiki/Villa_Amalia_(Athens)) -
@@ -38,6 +41,11 @@ Meetup](https://www.meetup.com/Athens-Clojure-Meetup/members/?op=leaders) -
 
 [Athens PWL meetup](https://www.meetup.com/Papers-We-Love-Athens/) -
 μέλος της ομάδας που τρέχει το PWL από το 2017
+
+### Words
+
+[Στο Ρινγκ](https://timetrapescape.bandcamp.com/merch/-) - πρώτη
+ποιητική συλλογή που εκδόθηκε το 2020
 
 ### Music
 
