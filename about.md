@@ -15,6 +15,10 @@ Skroutz από το 2012
 
 ### Teams
 
+[Villa Amalias](https://en.wikipedia.org/wiki/Villa_Amalia_(Athens)) -
+μέλος της μουσικής ομάδας του κοινωνικού αυτού χώρου από το 2005
+περίπου μέχρι το 2012
+
 [Timetrap](https://timetrapescape.bandcamp.com/) - μέλος της μουσικής
 μπάντας timetrap από το 2002
 
