@@ -80,7 +80,7 @@ description: Λίγα λόγια για μένα
   </div>
 
   <p class="item-desc">
-  το side project μου
+  το hobby μου
   </p>
 </div>
 
