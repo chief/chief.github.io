@@ -2,6 +2,7 @@
 layout: post
 title: Henry David Thoreau - Πολιτική ανυπακοή
 tags: βιβλία
+image_url: chief.github.io/public/images/anypakoh/Henry_David_Thoreau.jpeg
 ---
 
 Ο Thoreau εξετάζει την σχέση του ατόμου με την ευρύτερη κοινωνική δομή
@@ -33,6 +34,8 @@ tags: βιβλία
 μοίρα. Σε σχέση με την βίαιη αντίσταση, δεν είναι ένθερμος
 υποστηρικτής ούτε πολέμιος. Θα έλεγα ότι το αφήνει σαν πιθανό
 ενδεχόμενο. Σίγουρα δεν την απορρίπτει.
+
+![Henry David Thoreau]({{ site.url }}/public/images/anypakoh/Henry_David_Thoreau.jpeg)
 
 ## Φράσεις που μου άρεσαν
 
