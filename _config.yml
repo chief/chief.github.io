@@ -11,7 +11,7 @@ description:      'σκέψεις κείμενα ιδέες και διάφορ�
 μικρός χώρος που αλωνίζω'
 url:              https://chief.github.io
 baseurl: /
-pagination_start: chief.github.io/
+pagination_start: https://chief.github.io/
 excerpt_separator: "<!--more-->"
 
 author:
