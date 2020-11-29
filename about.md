@@ -138,7 +138,7 @@ description: Λίγα λόγια για μένα
 <div class="about-row">
   <div class="item-title">
     <a href="https://www.meetup.com/Athens-Ruby-Meetup/">
-    Athen Ruby Meetup
+    Athens Ruby Meetup
     </a>
 
     <span class="item-date">
@@ -171,7 +171,7 @@ description: Λίγα λόγια για μένα
 <div class="about-row">
   <div class="item-title">
     <a href="https://www.meetup.com/Athens-Clojure-Meetup">
-    Athen Clojure Meetup
+    Athens Clojure Meetup
     </a>
 
     <span class="item-date">
@@ -187,7 +187,7 @@ description: Λίγα λόγια για μένα
 <div class="about-row">
   <div class="item-title">
     <a href="https://www.meetup.com/Athens-Clojure-Meetup">
-    Athen PWL Meetup
+    Athens PWL Meetup
     </a>
 
     <span class="item-date">
