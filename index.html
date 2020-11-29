@@ -12,7 +12,26 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <span class="post-date">
+      <!-- Whitespace added for readability -->
+      {% assign m = post.date | date: "%-m" %}
+      {{ post.date | date: "%-d" }}
+      {% case m %}
+      {% when '1' %}Ιανουαρίου
+      {% when '2' %}Φεβρουαρίου
+      {% when '3' %}Μαρτίου
+      {% when '4' %}Απριλίου
+      {% when '5' %}Μάη
+      {% when '6' %}Ιουνίου
+      {% when '7' %}Ιουλίου
+      {% when '8' %}Αυγούστου
+      {% when '9' %}Σεπτεμβρίου
+      {% when '10' %}Οκτωβρίου
+      {% when '11' %}Nοεμβρίου
+      {% when '12' %}Δεκεμβρίου
+      {% endcase %}
+      {{ post.date | date: "%Y" }}
+    </span>
 
     {{ post.excerpt }}
   </div>
@@ -25,18 +44,18 @@ title: Home
     Παλιότερα
   </a>
   {% else %}
-    <span class="pagination-item older">Παλιότερα</span>
+  <span class="pagination-item older">Παλιότερα</span>
   {% endif %}
   {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.pagination_start }}">Νεότερα</a>
-    {% else %}
-      <a class="pagination-item newer"
-         href="{{ site.pagination_start }}page{{paginator.previous_page}}">
-        Νεότερα
-        </a>
-    {% endif %}
+  {% if paginator.page == 2 %}
+  <a class="pagination-item newer" href="{{ site.pagination_start }}">Νεότερα</a>
   {% else %}
-    <span class="pagination-item newer">Νεότερα</span>
+  <a class="pagination-item newer"
+     href="{{ site.pagination_start }}page{{paginator.previous_page}}">
+    Νεότερα
+  </a>
+  {% endif %}
+  {% else %}
+  <span class="pagination-item newer">Νεότερα</span>
   {% endif %}
 </div>
