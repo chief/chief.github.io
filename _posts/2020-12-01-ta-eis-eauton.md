@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Μάρκος Αυρήλιος - Τα εις εαυτόν
+title: Μάρκος Αυρήλιος &middot; Τα εις εαυτόν
 tags: βιβλία
 image_url: https://chief.github.io/public/images/ta-eis-eauton/Marc.jpg
 description: Δυό λόγια πάνω στο διαφωτιστικό βιβλίο του Μάρκου Αυρήλιου

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ευριπίδης - Ιππόλυτος
+title: Ευριπίδης &middot; Ιππόλυτος
 tags: βιβλία
 image_url: https://chief.github.io/public/images/eyripidhs.jpg
 description: Δυό λόγια για την τραγωδία του Ιππόλυτου

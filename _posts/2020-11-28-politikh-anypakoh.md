@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Henry David Thoreau - Πολιτική ανυπακοή
+title: Henry David Thoreau &middot; Πολιτική ανυπακοή
 tags: βιβλία
 image_url: https://chief.github.io/public/images/anypakoh/Henry_David_Thoreau.jpeg
 description: Σύντομη ανάλυση πάνω στο πολύ ενδιαφέρον και ακόμα σύγχρονο βιβλίο του Thoreau
