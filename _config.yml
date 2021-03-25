@@ -30,3 +30,8 @@ github:
 plugins: [redcarpet, jekyll-paginate,  jekyll-feed]
 
 theme: minima
+
+exclude:
+  - poems/
+  - words/
+  - music/
