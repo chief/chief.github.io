@@ -22,7 +22,11 @@ layout: default
   </div>
 
   <p class="item-desc">
+    {% if post.album  %}
     από την συλλογή "{{ post.album }}"
+    {% elsif post.description %}
+    {{ post.description }}
+    {% endif  %}
   </p>
 </div>
 
