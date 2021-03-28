@@ -1,7 +1,7 @@
 ---
 title: Η χρυσή εποχή της ελευθερίας λόγου
 layout: post
-tags: ενδιαφέροντα
+tags: τρίπλες
 ---
 
 [IT'S THE (DEMOCRACY-POISONING) GOLDEN AGE OF FREE SPEECH](https://www.wired.com/story/free-speech-issue-tech-turmoil-new-censorship/)

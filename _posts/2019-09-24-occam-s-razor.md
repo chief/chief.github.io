@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Occam's razor
-tags: mental-models
+tags: τρίπλες
 ---
 
 Μεταξύ ερμηνειών που καταλήγουν στο ίδιο αποτέλεσμα είναι προτιμότερο

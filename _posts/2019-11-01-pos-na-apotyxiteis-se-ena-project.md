@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Πώς να αποτύχεις σε ένα project
-tags: misc
+tags: τρίπλες
 ---
 
 Σε προηγούμενο post αναφέρθηκα στην [via

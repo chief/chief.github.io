@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Goodbye linkedin
-tags: social
+tags: τρίπλες
 ---
 
 Αυτές τις μέρες σκεφτόμουν να φύγω από το [Linkedin](https://www.linkedin.com/feed/)

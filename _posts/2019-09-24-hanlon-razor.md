@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hanlon's razor
-tags: mental-models
+tags: τρίπλες
 ---
 
 Όταν παρατηρείς τις ανθρώπινες πράξεις και τις ανθρώπινες συμπεριφορές
