@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<h1>{{ page.tag }}</h1>
+
+{% for post in site.tags[page.tag] %}
+
+<div class="about-row">
+  <div class="item-title">
+    <a href="{{ post.url }}">
+      {{ post.title }}
+    </a>
+
+    <span class="item-date">
+      {% if post.period  %}
+      {{ post.period }}
+      {% else %}
+      {{ post.date | date: "%Y" }}
+      {% endif  %}
+    </span>
+  </div>
+
+  <p class="item-desc">
+    από την συλλογή "{{ post.album }}"
+  </p>
+</div>
+
+{% endfor %}

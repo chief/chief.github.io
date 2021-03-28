@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <span class="post-date">[
+    {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+    {% endfor %}
+    ]
+  </span>
+  {{ content }}
+</div>
+
+<div class="related">
+  <h2>Σχετικά κείμενα</h2>
+  <ul class="related-posts">
+    {% for post in site.related_posts limit:3 %}
+    <li>
+      <h3>
+        <a href="{{ post.url }}">
+          {{ post.title }}
+          <small>
+            <!-- Whitespace added for readability -->
+            {% assign m = post.date | date: "%-m" %}
+            {{ post.date | date: "%-d" }}
+            {% case m %}
+            {% when '1' %}Ιανουαρίου
+            {% when '2' %}Φεβρουαρίου
+            {% when '3' %}Μαρτίου
+            {% when '4' %}Απριλίου
+            {% when '5' %}Μάη
+            {% when '6' %}Ιουνίου
+            {% when '7' %}Ιουλίου
+            {% when '8' %}Αυγούστου
+            {% when '9' %}Σεπτεμβρίου
+            {% when '10' %}Οκτωβρίου
+            {% when '11' %}Nοεμβρίου
+            {% when '12' %}Δεκεμβρίου
+            {% endcase %}
+            {{ post.date | date: "%Y" }}
+          </small>
+        </a>
+      </h3>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
