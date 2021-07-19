@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Η δημιουργικότητα στον αστερισμό της πανδημίας
-tags: τρίπλες
+tags: κείμενα
 image_url: https://chief.github.io/public/images/dhmiourgikothta/eikona_2.jpg
 ---
 
