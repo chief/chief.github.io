@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Arm your desires #6, Φεστιβάλ στον Τύρναβο
+title: Arm your desires 6 Φεστιβάλ στον Τύρναβο
 tags: συναυλίες
 ---
 
