@@ -2,6 +2,7 @@
 layout: post
 title: Συμπεράσματα από το project Skroutz Plus
 tags: κείμενα
+description: "Δύο λόγια για το τι αποκόμισα από την συμμετοχή μου στο project Skroutz Plus"
 ---
 
 To [Skroutz Plus](https://www.skroutz.gr/plus) είναι ένα project που
