@@ -2,6 +2,7 @@
 layout: post
 title: Δέκα τραγούδια για φίλους
 tags: κείμενα
+image_url: https://giorgostsiftsis.com/public/images/tdk.jpg
 ---
 
 Ήμασταν χθες μια παρέα και έπεσε η ιδέα να ανταλλάξουμε δέκα τραγούδια ο καθένας
