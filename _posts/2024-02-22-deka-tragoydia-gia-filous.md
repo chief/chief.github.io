@@ -11,7 +11,7 @@ tags: κείμενα
 πέρα ότι μου αρέσουν οι κιθάρες και προτιμώ τα live παιξίματα.
 
 
-## Mdou Moktar - Tarhatazed - Live on KEXP
+## Mdou Moktar - Tarhatazed - Live on KEXP - 25/05/2018
 
 Το πρώτο είναι από τον Αφρικανό Μdou Moktar. Μου αρέσει η προσέγγισή τους σε
 φόρμες που φαντάζουν απαρχαιωμένες. Έχει μια αίσθηση φρεσκάδας και αθωότητας.
@@ -23,7 +23,7 @@ clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 allowfullscreen></iframe>
 
 
-## Stinking Lizaveta - Requiem For A Rock Band - Live 10/21/06
+## Stinking Lizaveta - Requiem For A Rock Band - Live 10/21/2006
 
 Αγαπημένη underground μπάντα. Οι έγχορδοι είναι αδέρφια ελληνικής καταγωγής.
 
@@ -34,7 +34,7 @@ clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 allowfullscreen></iframe>
 
 
-## Συνηθισμένο - Δημήτριος Ματσώτας
+## Συνηθισμένο - Δημήτριος Ματσώτας - 2021
 
 Από τον συντοπίτη Δημήτρη ο οποίος είναι ταλαντούχος με ένα ωραίο μοναδικό
 τρόπο να παίζει κιθάρα.
@@ -45,7 +45,9 @@ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
 clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 allowfullscreen></iframe>
 
-## Φιλιώ Πυργάκη - Απόψε Που Κοιμόμουνα
+<!-- more -->
+
+## Φιλιώ Πυργάκη - Απόψε Που Κοιμόμουνα - 2002
 
 Είμαστε σχεδόν γείτονες με τον Γιώργο Μάγκα και τον θεωρώ τον καλύτερο Βοιωτό
 μουσικό όλων των εποχών. Αυτός ο δίσκος με την Πυργάκη, εκτός ότι είναι live
@@ -59,7 +61,7 @@ clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 allowfullscreen></iframe>
 
 
-## Sleaford Mods - Jobseeker - at Rough Trade Nottingham 4 March 2017
+## Sleaford Mods - Jobseeker - Live at Rough Trade Nottingham 04/03/2017
 
 Ό,τι καλύτερο έχω ακούσει τα τελευταία χρόνια.
 
@@ -81,7 +83,7 @@ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
 clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 allowfullscreen></iframe>
 
-## Black Sabbath - War Pigs - Live from 'The End'
+## Black Sabbath - War Pigs - Live from 'The End' - 2017
 
 Η αρχή
 
@@ -92,17 +94,17 @@ clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 allowfullscreen></iframe>
 
 
-## The Eighties Matchbox B-Line Disaster - So Long Good Night
+## The Eighties Matchbox B-Line Disaster - So Long Good Night - 2010
 
 Είχα κολλήσει πολύ κάποτε με αυτό το τραγούδι
 
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/4z7vC2J9r-Q?si=R7Mb8UGe8JJDqKu3"
 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
-clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"γ
 allowfullscreen></iframe>
 
-## Θάνος Μικρούτσικος - Γιάννης Κούτρας - Kuro Siwo
+## Θάνος Μικρούτσικος - Γιάννης Κούτρας - Kuro Siwo - 1979
 
 Μπορώ να πω ότι έβγαλα την καραντίνα με αυτό το τραγούδι και τον δίσκο.
 
@@ -112,7 +114,7 @@ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
 clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 allowfullscreen></iframe>
 
-## Αρλέτα - Τάκης
+## Αρλέτα - Τάκης - 1985
 
 Αρέσει τόσο στην κορούλα που μου αρέσει και μένα τώρα :)
 
