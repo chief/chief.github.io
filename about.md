@@ -325,7 +325,7 @@ description: Λίγα λόγια για μένα
     </a>
 
     <span class="item-date">
-    2017
+    2023
     </span>
   </div>
 
