@@ -84,6 +84,22 @@ description: Λίγα λόγια για μένα
   </p>
 </div>
 
+<div class="about-row">
+  <div class="item-title">
+  <a href="https://howstudio.dev">
+   How
+    </a>
+
+    <span class="item-date">
+    από το 2022
+    </span>
+  </div>
+
+  <p class="item-desc">
+  το πιο σοβαρό project μου
+  </p>
+</div>
+
 ### Teams
 
 <div class="about-row">
@@ -115,7 +131,7 @@ description: Λίγα λόγια για μένα
   </div>
 
    <p class="item-desc">
-   o χώρος μου
+   o μουσικός χώρος μου
    </p>
 </div>
 
@@ -200,6 +216,39 @@ description: Λίγα λόγια για μένα
    </p>
 </div>
 
+<div class="about-row">
+  <div class="item-title">
+    <a href="#">
+    Σύλλογος γονέων 1ου δημοτικού Ν. Ηρακλείου
+    </a>
+
+    <span class="item-date">
+    2020 - 2024
+    </span>
+  </div>
+
+   <p class="item-desc">
+   σύλλογος μεγάλος :)
+   </p>
+</div>
+
+<div class="about-row">
+  <div class="item-title">
+    <a href="#">
+    Στιχορραγία
+    </a>
+
+    <span class="item-date">
+    από το 2023
+    </span>
+  </div>
+
+   <p class="item-desc">
+   μουσική ομάδα μελοποίησης ποιημάτων
+   </p>
+</div>
+
+
 ### Words
 
 <div class="about-row">
@@ -266,6 +315,22 @@ description: Λίγα λόγια για μένα
 
   <p class="item-desc">
   τρίτος δίσκος που εκδώσαμε με τους timetrap
+  </p>
+</div>
+
+<div class="about-row">
+  <div class="item-title">
+    <a href="https://timetrapescape.bandcamp.com/album/timetrap">
+    Timetrap
+    </a>
+
+    <span class="item-date">
+    2017
+    </span>
+  </div>
+
+  <p class="item-desc">
+  τέταρτος δίσκος που εκδώσαμε με τους timetrap
   </p>
 </div>
 
