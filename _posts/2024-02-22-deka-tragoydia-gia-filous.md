@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Δέκα τραγούδια για φίλους
-tags: κείμενα
+tags: μουσική
 image_url: https://giorgostsiftsis.com/public/images/tdk.jpg
 ---
 
