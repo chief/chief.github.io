@@ -2,6 +2,7 @@
 layout: post
 title: Προς κλείσιμο της πρώτης φάσης.
 tags: χωριό
+image_url: https://giorgostsiftsis.com/public/images/xorio/22.jpg)
 ---
 
 Έχουμε εστιάσει τους τελευταίους μήνες στο να κλείσει η πρώτη φάση, η οποία
