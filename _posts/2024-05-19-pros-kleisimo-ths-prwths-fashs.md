@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Προς κλείσιμο της πρώτης φάσης.
+title: Προς κλείσιμο της πρώτης φάσης
 tags: χωριό
 image_url: https://giorgostsiftsis.com/public/images/xorio/22.jpg)
 ---
